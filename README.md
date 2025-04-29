@@ -1,4 +1,4 @@
-# Konnectly - A Flutter Contact Book App 📱✨
+# Contact Book App 📱✨
 
 Konnectly is a feature-packed contact book app built with Flutter, designed for beginners and developers learning mobile app development. From adding and editing contacts to searching and sorting, Konnectly offers a polished UI and robust functionality. Explore this project to see how a beginner turned a simple idea into a complete app! 🚀
 
